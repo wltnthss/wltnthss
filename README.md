@@ -1,6 +1,7 @@
 # SON JI SOO
 
 ![SONJISOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=wltnthss&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonji1214)](https://solved.ac/sonji1214/)
 
 ## 🛠 &nbsp;Technical Skills
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
